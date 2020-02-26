@@ -1,0 +1,11 @@
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\treek\Desktop\launchcode_homework\akintree\csharp-exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
